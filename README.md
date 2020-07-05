@@ -21,3 +21,6 @@ Automatically get the csgo skins sale data on igxe.cn and c5game.com and buff.16
 - ```log_ig_c5.py```最后更新于18年3月份，采用的是igxe先模拟登录再用Beautifulsoup爬取信息，C5是直接访问api.需要注意的是igxe现在异地登录有验证
 - ```api_ig_buff.py```更新于18年10月份，igxe和buff都用的是api访问，效率更高
 - 可以根据自己的需要添加其他功能，比如发电子邮件提醒，每隔一段时间重复检索等
+
+------
+> 想要定制抓取饰品价格/磨损的程序可以联系：1207547992@qq.com
